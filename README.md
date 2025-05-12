@@ -20,27 +20,22 @@ This course introduces commonly used analytics models and guides students throug
 
 ---
 
-## Course Topics by Week
+## Course Topics
 
-| Week | Topics |
-|------|--------|
-| 1    | Introduction, Classification |
-| 2    | Validation, Clustering |
-| 3    | Basic Data Preparation, Change Detection |
-| 4    | Time Series Models |
-| 5    | Basic Regression |
-| 6    | Advanced Data Preparation |
-| 7    | Advanced Regression, Tree-based Models |
-| 8    | Variable Selection |
-| 9    | Design of Experiments, Probability-based Models |
-| 10   | Missing Data, Optimization |
-| 11   | (Spring Break – No new content) |
-| 12   | Optimization, Advanced Models |
-| 13   | Discussion Case: Power Company |
-| 14   | Discussion Case: Retailer |
-| 15   | Discussion Case: Monetization |
-| 16   | Course Summary |
-| 17   | Final Exam |
+- Introduction, Classification  
+- Validation, Clustering  
+- Basic Data Preparation, Change Detection  
+- Time Series Models  
+- Basic Regression  
+- Advanced Data Preparation  
+- Advanced Regression, Tree-based Models  
+- Variable Selection  
+- Design of Experiments, Probability-based Models  
+- Missing Data, Optimization  
+- Optimization, Advanced Models  
+- Discussion Case: Power Company  
+- Discussion Case: Retailer  
+- Discussion Case: Monetization  
 
 ---
 
